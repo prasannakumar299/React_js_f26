@@ -1,0 +1,8 @@
+.todo-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    border: 2px solid blue;
+    width: 250px;
+}
